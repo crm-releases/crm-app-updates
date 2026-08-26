@@ -1,0 +1,13 @@
+{
+  "versionCode": 80,
+  "versionName": "0.1.0",
+  "apkUrl": "https://github.com/crm-releases/crm-app-updates/releases/download/staging/staging.apk",
+  "apkUrlFallback": "https://lightpink-zebra-658910.hostingersite.com/app/staging.apk",
+  "sha256": "fc4248fd86e390fec3e461a734b97e2a41d8fd3aa03c9887156b07819f4f5172",
+  "sizeBytes": 66033613,
+  "mandatory": false,
+  "changelog": [
+    "In-app updates: you will now be notified inside the app when a new version is ready",
+    "No more uninstalling before installing an update"
+  ]
+}
