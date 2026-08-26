@@ -1,9 +1,9 @@
 {
-  "versionCode": 80,
+  "versionCode": 81,
   "versionName": "0.1.0",
   "apkUrl": "https://github.com/crm-releases/crm-app-updates/releases/download/live/live.apk",
   "apkUrlFallback": "https://lightpink-zebra-658910.hostingersite.com/app/live.apk",
-  "sha256": "dc5d27a1b526212b544e26f3b386db71aab300fa7a258fdb3b24069ef816dbb5",
+  "sha256": "5ed34394da9eaba5462ac4cb2803325b59cf95b8b09d546f3b058b81c7380e1e",
   "sizeBytes": 66055849,
   "mandatory": false,
   "changelog": [
