@@ -1,9 +1,8 @@
 {
-  "versionCode": 82,
+  "versionCode": 83,
   "versionName": "0.1.0",
   "apkUrl": "https://github.com/crm-releases/crm-app-updates/releases/download/staging/staging.apk",
-  "apkUrlFallback": "https://lightpink-zebra-658910.hostingersite.com/app/staging.apk",
-  "sha256": "4f8d4a2eafa17b9dc0355888fd34f655da07fa93c627fe670c5f3f29bf2fb959",
+  "sha256": "c32e94b5224ec9a7cf0ba9381d8edd4a190913c4b746370edd5f4d8135bacf29",
   "sizeBytes": 66033613,
   "mandatory": false,
   "changelog": [
