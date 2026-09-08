@@ -1,12 +1,13 @@
 {
-  "versionCode": 85,
+  "versionCode": 86,
   "versionName": "0.1.0",
   "apkUrl": "https://github.com/crm-releases/crm-app-updates/releases/download/staging/staging.apk",
-  "sha256": "78ddc2270a662674c6c4d3b82867b514ccb01f7975006409a58b6d0ac877fc54",
+  "sha256": "4a3e9a2e1f1e56c0ffdf696bc21e06a210afbda7f98320631552f4734837d418",
   "sizeBytes": 66049997,
   "mandatory": false,
   "changelog": [
-    "In-app updates: you will now be notified inside the app when a new version is ready",
-    "No more uninstalling before installing an update"
+    "Voice notes now play one at a time - starting a new one stops the last",
+    "A voice note keeps playing when you leave the chat, with a player at the top",
+    "Tap the X on that player to stop it"
   ]
 }
