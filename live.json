@@ -1,12 +1,13 @@
 {
-  "versionCode": 85,
+  "versionCode": 86,
   "versionName": "0.1.0",
   "apkUrl": "https://github.com/crm-releases/crm-app-updates/releases/download/live/live.apk",
-  "sha256": "d1886c89670307b4e06c28ad3967bf09ddb92712bc6a28a858f0f92603a4d05a",
+  "sha256": "67c305bae96f4395d366f618dc616f80aec5f41b2a03ac753680a7a7b86a37df",
   "sizeBytes": 66072233,
   "mandatory": false,
   "changelog": [
-    "In-app updates: you will now be notified inside the app when a new version is ready",
-    "No more uninstalling before installing an update"
+    "Voice notes now play one at a time - starting a new one stops the last",
+    "A voice note keeps playing when you leave the chat, with a player at the top",
+    "Tap the X on that player to stop it"
   ]
 }
