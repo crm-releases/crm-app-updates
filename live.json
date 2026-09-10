@@ -1,9 +1,9 @@
 {
-  "versionCode": 86,
+  "versionCode": 87,
   "versionName": "0.1.0",
   "apkUrl": "https://github.com/crm-releases/crm-app-updates/releases/download/live/live.apk",
-  "sha256": "67c305bae96f4395d366f618dc616f80aec5f41b2a03ac753680a7a7b86a37df",
-  "sizeBytes": 66072233,
+  "sha256": "b9b5670aec507955b02124e40b2760ae7c1aeb80cfada8d39a457ee3648be5af",
+  "sizeBytes": 66137769,
   "mandatory": false,
   "changelog": [
     "Voice notes now play one at a time - starting a new one stops the last",
