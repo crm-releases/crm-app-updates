@@ -1,9 +1,9 @@
 {
-  "versionCode": 86,
+  "versionCode": 87,
   "versionName": "0.1.0",
   "apkUrl": "https://github.com/crm-releases/crm-app-updates/releases/download/staging/staging.apk",
-  "sha256": "4a3e9a2e1f1e56c0ffdf696bc21e06a210afbda7f98320631552f4734837d418",
-  "sizeBytes": 66049997,
+  "sha256": "703f980d05bc8f3ca24f451e7d4bb96989220b476d584c3596c156d5cbb512b3",
+  "sizeBytes": 66115533,
   "mandatory": false,
   "changelog": [
     "Voice notes now play one at a time - starting a new one stops the last",
