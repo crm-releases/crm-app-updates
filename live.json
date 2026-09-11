@@ -1,8 +1,8 @@
 {
-  "versionCode": 87,
+  "versionCode": 88,
   "versionName": "0.1.0",
   "apkUrl": "https://github.com/crm-releases/crm-app-updates/releases/download/live/live.apk",
-  "sha256": "b9b5670aec507955b02124e40b2760ae7c1aeb80cfada8d39a457ee3648be5af",
+  "sha256": "4cf870120938a033ef8ec391364d36726f9b13772f002932d60883631fb5d420",
   "sizeBytes": 66137769,
   "mandatory": false,
   "changelog": [
