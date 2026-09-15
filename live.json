@@ -1,13 +1,12 @@
 {
-  "versionCode": 89,
+  "versionCode": 90,
   "versionName": "0.1.0",
   "apkUrl": "https://github.com/crm-releases/crm-app-updates/releases/download/live/live.apk",
-  "sha256": "17e7bd5e450715ec2f3da787ac7f16cff87d52826bc87d486d02458416959277",
+  "sha256": "43409ba740f2d9c3ebd86371e2a55e89a0869b894ac7edb5899bc7533b9dde31",
   "sizeBytes": 66137769,
   "mandatory": false,
   "changelog": [
-    "Voice notes now play one at a time - starting a new one stops the last",
-    "A voice note keeps playing when you leave the chat, with a player at the top",
-    "Tap the X on that player to stop it"
+    "The dashboard now shows clearly when no WhatsApp number is connected yet",
+    "The WhatsApp number card no longer shows sample values before your data loads"
   ]
 }
