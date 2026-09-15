@@ -1,13 +1,12 @@
 {
-  "versionCode": 89,
+  "versionCode": 90,
   "versionName": "0.1.0",
   "apkUrl": "https://github.com/crm-releases/crm-app-updates/releases/download/staging/staging.apk",
-  "sha256": "57aaf39f40f56c6305b3691cc1a83934c8dd5bdce4aeba5e9e1bb54e87f3abcc",
+  "sha256": "8df79cf9943d2c2632081a086fe127a466ad76c715a1b5680f475fd03b795fc7",
   "sizeBytes": 66115533,
   "mandatory": false,
   "changelog": [
-    "Voice notes now play one at a time - starting a new one stops the last",
-    "A voice note keeps playing when you leave the chat, with a player at the top",
-    "Tap the X on that player to stop it"
+    "The dashboard now shows clearly when no WhatsApp number is connected yet",
+    "The WhatsApp number card no longer shows sample values before your data loads"
   ]
 }
