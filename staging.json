@@ -1,9 +1,9 @@
 {
-  "versionCode": 90,
-  "versionName": "0.1.0",
+  "versionCode": 95,
+  "versionName": "0.1.95",
   "apkUrl": "https://github.com/crm-releases/crm-app-updates/releases/download/staging/staging.apk",
-  "sha256": "8df79cf9943d2c2632081a086fe127a466ad76c715a1b5680f475fd03b795fc7",
-  "sizeBytes": 66115533,
+  "sha256": "6c4613e834db978df3ca3d1becadaba1b3303d4d6dd92f3ab6a949005674a12a",
+  "sizeBytes": 66164689,
   "mandatory": false,
   "changelog": [
     "The dashboard now shows clearly when no WhatsApp number is connected yet",
