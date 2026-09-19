@@ -1,12 +1,14 @@
 {
-  "versionCode": 95,
-  "versionName": "0.1.95",
+  "versionCode": 99,
+  "versionName": "0.1.99",
   "apkUrl": "https://github.com/crm-releases/crm-app-updates/releases/download/live/live.apk",
-  "sha256": "7e2bf3547f1b6f2f335b992bc776521017a1a8308807ef13fb03e2f22b23a246",
-  "sizeBytes": 66186925,
+  "sha256": "c0433bb6dbf1c83b9abe7234f5dbc1affe17a572bf938c5d84a98d848192fc21",
+  "sizeBytes": 67336213,
   "mandatory": false,
   "changelog": [
-    "The dashboard now shows clearly when no WhatsApp number is connected yet",
-    "The WhatsApp number card no longer shows sample values before your data loads"
+    "New: WhatsApp Forms - create, edit, publish and manage forms from the app (More > WhatsApp Forms)",
+    "See every form response, including uploaded files",
+    "Send a WhatsApp Form from any chat (Attach > WhatsApp Form)",
+    "Submitted forms now show as a clear card in the chat"
   ]
 }
