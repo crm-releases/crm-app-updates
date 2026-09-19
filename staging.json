@@ -1,12 +1,14 @@
 {
-  "versionCode": 97,
-  "versionName": "0.1.97",
+  "versionCode": 99,
+  "versionName": "0.1.99",
   "apkUrl": "https://github.com/crm-releases/crm-app-updates/releases/download/staging/staging.apk",
-  "sha256": "0e0d3eb23746f7cb0109afcab6e76b893aedb86b6dd7318c5b4037e12f58897f",
+  "sha256": "86872a992afa6549440cb3e0ee36013bbd66c1a247d0dbbeb0480d631d6f6741",
   "sizeBytes": 67313981,
   "mandatory": false,
   "changelog": [
-    "The dashboard now shows clearly when no WhatsApp number is connected yet",
-    "The WhatsApp number card no longer shows sample values before your data loads"
+    "New: WhatsApp Forms - create, edit, publish and manage forms from the app (More > WhatsApp Forms)",
+    "See every form response, including uploaded files",
+    "Send a WhatsApp Form from any chat (Attach > WhatsApp Form)",
+    "Submitted forms now show as a clear card in the chat"
   ]
 }
