@@ -1,9 +1,9 @@
 {
-  "versionCode": 99,
-  "versionName": "0.1.99",
+  "versionCode": 102,
+  "versionName": "0.1.102",
   "apkUrl": "https://github.com/crm-releases/crm-app-updates/releases/download/staging/staging.apk",
-  "sha256": "86872a992afa6549440cb3e0ee36013bbd66c1a247d0dbbeb0480d631d6f6741",
-  "sizeBytes": 67313981,
+  "sha256": "5f6f5949f09652c24d462a94c79e688ba06910d9e8c2476a0ffdac0b2f339ba7",
+  "sizeBytes": 67346933,
   "mandatory": false,
   "changelog": [
     "New: WhatsApp Forms - create, edit, publish and manage forms from the app (More > WhatsApp Forms)",
