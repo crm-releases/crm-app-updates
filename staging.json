@@ -1,14 +1,14 @@
 {
-  "versionCode": 102,
-  "versionName": "0.1.102",
+  "versionCode": 103,
+  "versionName": "0.1.103",
   "apkUrl": "https://github.com/crm-releases/crm-app-updates/releases/download/staging/staging.apk",
-  "sha256": "5f6f5949f09652c24d462a94c79e688ba06910d9e8c2476a0ffdac0b2f339ba7",
+  "sha256": "fa6fee51001c59f97b6cf21b4d98c6df9c32a0a529c507680e839253e10a7c0b",
   "sizeBytes": 67346933,
   "mandatory": false,
   "changelog": [
-    "New: WhatsApp Forms - create, edit, publish and manage forms from the app (More > WhatsApp Forms)",
-    "See every form response, including uploaded files",
-    "Send a WhatsApp Form from any chat (Attach > WhatsApp Form)",
-    "Submitted forms now show as a clear card in the chat"
+    "Voice notes keep playing in a small player while you read other chats",
+    "The player also appears when you scroll away from the voice note",
+    "Tap the arrow on the player to jump straight back to the voice note",
+    "Pause, change speed or close the player from any chat"
   ]
 }
