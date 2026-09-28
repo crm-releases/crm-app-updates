@@ -1,14 +1,14 @@
 {
-  "versionCode": 99,
-  "versionName": "0.1.99",
+  "versionCode": 103,
+  "versionName": "0.1.103",
   "apkUrl": "https://github.com/crm-releases/crm-app-updates/releases/download/live/live.apk",
-  "sha256": "c0433bb6dbf1c83b9abe7234f5dbc1affe17a572bf938c5d84a98d848192fc21",
-  "sizeBytes": 67336213,
+  "sha256": "edc17032a2ad27c979962706f59bd820e1c1aa6c8d76eff90ca419e390edbfc1",
+  "sizeBytes": 67369161,
   "mandatory": false,
   "changelog": [
-    "New: WhatsApp Forms - create, edit, publish and manage forms from the app (More > WhatsApp Forms)",
-    "See every form response, including uploaded files",
-    "Send a WhatsApp Form from any chat (Attach > WhatsApp Form)",
-    "Submitted forms now show as a clear card in the chat"
+    "Voice notes keep playing in a small player while you read other chats",
+    "The player also appears when you scroll away from the voice note",
+    "Tap the arrow on the player to jump straight back to the voice note",
+    "Pause, change speed or close the player from any chat"
   ]
 }
