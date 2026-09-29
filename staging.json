@@ -1,14 +1,15 @@
 {
-  "versionCode": 105,
-  "versionName": "0.1.105",
+  "versionCode": 107,
+  "versionName": "0.1.107",
   "apkUrl": "https://github.com/crm-releases/crm-app-updates/releases/download/staging/staging.apk",
-  "sha256": "d55dccdb31747c78145c47d0c41c9b5f2b2b5e7c66f41d37cb37c3480a09329e",
+  "sha256": "430599c3cdc04154d2c13fd01adfdca966f42fb4f62a4863eecbd58d2afe0024",
   "sizeBytes": 67445237,
   "mandatory": false,
   "changelog": [
-    "Voice notes keep playing in a small player while you read other chats",
-    "The player also appears when you scroll away from the voice note",
-    "Tap the arrow on the player to jump straight back to the voice note",
-    "Pause, change speed or close the player from any chat"
+    "See the templates of all your WhatsApp numbers in one list",
+    "Each template now shows the WhatsApp number it belongs to",
+    "Pick the number first when you create a template",
+    "Deleting a template now removes it from WhatsApp too",
+    "Sync now updates the templates of every number"
   ]
 }
