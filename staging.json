@@ -1,9 +1,9 @@
 {
-  "versionCode": 103,
-  "versionName": "0.1.103",
+  "versionCode": 105,
+  "versionName": "0.1.105",
   "apkUrl": "https://github.com/crm-releases/crm-app-updates/releases/download/staging/staging.apk",
-  "sha256": "fa6fee51001c59f97b6cf21b4d98c6df9c32a0a529c507680e839253e10a7c0b",
-  "sizeBytes": 67346933,
+  "sha256": "d55dccdb31747c78145c47d0c41c9b5f2b2b5e7c66f41d37cb37c3480a09329e",
+  "sizeBytes": 67445237,
   "mandatory": false,
   "changelog": [
     "Voice notes keep playing in a small player while you read other chats",
