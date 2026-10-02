@@ -1,15 +1,16 @@
 {
-  "versionCode": 112,
-  "versionName": "0.1.112",
+  "versionCode": 121,
+  "versionName": "0.1.121",
   "apkUrl": "https://github.com/crm-releases/crm-app-updates/releases/download/staging/staging.apk",
-  "sha256": "43c2cfebcf6e0b299fbb9315956550955e80d22f7ff396496c2e540b4511297c",
-  "sizeBytes": 67445237,
+  "sha256": "ee914d6079f261f8d430b65d739e0d1e19d222d044d37e971e40095326cb0592",
+  "sizeBytes": 68887737,
   "mandatory": false,
   "changelog": [
-    "See the templates of all your WhatsApp numbers in one list",
-    "Each template now shows the WhatsApp number it belongs to",
-    "Pick the number first when you create a template",
-    "Deleting a template now removes it from WhatsApp too",
-    "Sync now updates the templates of every number"
+    "New in every chat menu: Media, links and docs - all photos, videos, documents and links of a chat in one place",
+    "Open a document straight from the list, or tap Show in chat to jump to its message",
+    "Send a chatbot from any chat: tap the paperclip, then Chatbot - and stop it from the chat at any time",
+    "Photos, videos and documents now open a preview first, with a caption for each file",
+    "Draw, highlight, add text, boxes and arrows, or crop and rotate a photo before you send it",
+    "Pick up to 20 photos and videos at once from the gallery"
   ]
 }
