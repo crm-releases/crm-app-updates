@@ -1,15 +1,16 @@
 {
-  "versionCode": 112,
-  "versionName": "0.1.112",
+  "versionCode": 124,
+  "versionName": "0.1.124",
   "apkUrl": "https://github.com/crm-releases/crm-app-updates/releases/download/live/live.apk",
-  "sha256": "fbb172984b0a8e43e4bdb6d2697a1850d4ed9384c0b7e455277a511d32a1be52",
-  "sizeBytes": 67467465,
+  "sha256": "23cc63ed98be337dd209cc93f915e020c2ddcfa8ef3b9ab1fc1f52cddbce1ef9",
+  "sizeBytes": 68909965,
   "mandatory": false,
   "changelog": [
-    "See the templates of all your WhatsApp numbers in one list",
-    "Each template now shows the WhatsApp number it belongs to",
-    "Pick the number first when you create a template",
-    "Deleting a template now removes it from WhatsApp too",
-    "Sync now updates the templates of every number"
+    "New in every chat menu: Media, links and docs - all photos, videos, documents and links of a chat in one place",
+    "Open a document straight from the list, or tap Show in chat to jump to its message",
+    "Send a chatbot from any chat: tap the paperclip, then Chatbot - and stop it from the chat at any time",
+    "Photos, videos and documents now open a preview first, with a caption for each file",
+    "Draw, highlight, add text, boxes and arrows, or crop and rotate a photo before you send it",
+    "Pick up to 20 photos and videos at once from the gallery"
   ]
 }
