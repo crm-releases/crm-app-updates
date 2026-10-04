@@ -1,16 +1,16 @@
 {
-  "versionCode": 124,
-  "versionName": "0.1.124",
+  "versionCode": 154,
+  "versionName": "0.1.154",
   "apkUrl": "https://github.com/crm-releases/crm-app-updates/releases/download/staging/staging.apk",
-  "sha256": "18fd4fd15219e8d2965fea617133b6a3e1adde8b3a22c24512f24919b14c8f0a",
-  "sizeBytes": 68887737,
+  "sha256": "3cc6d434ca840f091872d7e7d27bbff86b14d5d9a77a965cbccae574bce32c26",
+  "sizeBytes": 69526821,
   "mandatory": false,
   "changelog": [
-    "New in every chat menu: Media, links and docs - all photos, videos, documents and links of a chat in one place",
-    "Open a document straight from the list, or tap Show in chat to jump to its message",
-    "Send a chatbot from any chat: tap the paperclip, then Chatbot - and stop it from the chat at any time",
-    "Photos, videos and documents now open a preview first, with a caption for each file",
-    "Draw, highlight, add text, boxes and arrows, or crop and rotate a photo before you send it",
-    "Pick up to 20 photos and videos at once from the gallery"
+    "You stay signed in: your session renews itself, and changing your password no longer signs you out",
+    "Campaigns: Trigger, Pause, Resume and Delete now work just like on the web, including scheduled campaigns",
+    "Chats refresh by themselves when you come back to the app or your connection returns",
+    "The chat list loads more chats as you scroll",
+    "Image, video and document templates: upload your own file when you send - the sample file is never sent",
+    "Clearer error messages, and team members see only the screens they can use"
   ]
 }
