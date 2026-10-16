@@ -1,9 +1,9 @@
 {
-  "versionCode": 155,
-  "versionName": "0.1.155",
+  "versionCode": 158,
+  "versionName": "0.1.158",
   "apkUrl": "https://github.com/crm-releases/crm-app-updates/releases/download/staging/staging.apk",
-  "sha256": "5b28bd941f080c0ea7596cc28f5773362256f13b93ebbdd1151d8b0bc4aadcbd",
-  "sizeBytes": 69526821,
+  "sha256": "1eb9e8ecdef9f3c73ba4a7c09030347431881503dd203d59dd6b700356110b4d",
+  "sizeBytes": 70067973,
   "mandatory": false,
   "changelog": [
     "You stay signed in: your session renews itself, and changing your password no longer signs you out",
