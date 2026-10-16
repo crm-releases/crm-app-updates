@@ -1,16 +1,15 @@
 {
-  "versionCode": 155,
-  "versionName": "0.1.155",
+  "versionCode": 162,
+  "versionName": "1.0.1",
   "apkUrl": "https://github.com/crm-releases/crm-app-updates/releases/download/live/live.apk",
-  "sha256": "3fc80ed95a6155b4c01d8069bf9e6a978d7f4a9e6f6b0ecb5e93f20262d94675",
-  "sizeBytes": 69549049,
+  "sha256": "d7039c8c0d2189d9dcf4b521d6fc98796df94db33581f20a7a15cafd708f9ef2",
+  "sizeBytes": 70090205,
   "mandatory": false,
   "changelog": [
-    "You stay signed in: your session renews itself, and changing your password no longer signs you out",
-    "Campaigns: Trigger, Pause, Resume and Delete now work just like on the web, including scheduled campaigns",
-    "Chats refresh by themselves when you come back to the app or your connection returns",
-    "The chat list loads more chats as you scroll",
-    "Image, video and document templates: upload your own file when you send - the sample file is never sent",
-    "Clearer error messages, and team members see only the screens they can use"
+    "New version numbering: this is version 1.0.1",
+    "Channels: Bulk Action sets two-step verification, profile or display name on many numbers at once",
+    "Retarget: choose who gets it - Sent, Delivered, Read, Replied or Failed",
+    "Campaigns: a campaign can be deleted only before it is triggered, so its report is always kept",
+    "Templates: editing a template made on the web keeps its image, video or document header"
   ]
 }
