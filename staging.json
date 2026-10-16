@@ -1,16 +1,15 @@
 {
-  "versionCode": 158,
-  "versionName": "0.1.158",
+  "versionCode": 161,
+  "versionName": "1.0.1-beta.161",
   "apkUrl": "https://github.com/crm-releases/crm-app-updates/releases/download/staging/staging.apk",
-  "sha256": "1eb9e8ecdef9f3c73ba4a7c09030347431881503dd203d59dd6b700356110b4d",
-  "sizeBytes": 70067973,
+  "sha256": "8e81d6140193ddb21e95f5edbfe2a4096df77ab7cde83d644722d74b5164d9ed",
+  "sizeBytes": 70067977,
   "mandatory": false,
   "changelog": [
-    "You stay signed in: your session renews itself, and changing your password no longer signs you out",
-    "Campaigns: Trigger, Pause, Resume and Delete now work just like on the web, including scheduled campaigns",
-    "Chats refresh by themselves when you come back to the app or your connection returns",
-    "The chat list loads more chats as you scroll",
-    "Image, video and document templates: upload your own file when you send - the sample file is never sent",
-    "Clearer error messages, and team members see only the screens they can use"
+    "New version numbering: this is version 1.0.1",
+    "Channels: Bulk Action sets two-step verification, profile or display name on many numbers at once",
+    "Retarget: choose who gets it - Sent, Delivered, Read, Replied or Failed",
+    "Campaigns: a campaign can be deleted only before it is triggered, so its report is always kept",
+    "Templates: editing a template made on the web keeps its image, video or document header"
   ]
 }
