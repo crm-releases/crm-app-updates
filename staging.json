@@ -1,9 +1,9 @@
 {
-  "versionCode": 164,
-  "versionName": "1.0.2-beta.164",
+  "versionCode": 165,
+  "versionName": "1.0.2-beta.165",
   "apkUrl": "https://github.com/crm-releases/crm-app-updates/releases/download/staging/staging.apk",
-  "sha256": "aa6f2d4f37c0a582acba09b4f2d7a3fae00ce6a1b3ab707cef94d5ffec9dd5ce",
-  "sizeBytes": 70313737,
+  "sha256": "01111b2059096a19337b4d982a45a4282cd93eeeb8c7631fa9608035a8c23459",
+  "sizeBytes": 70313741,
   "mandatory": false,
   "changelog": [
     "Settings: new Wallets screen with your Main, Channel and AI wallet balance and history",
