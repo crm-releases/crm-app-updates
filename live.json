@@ -1,15 +1,15 @@
 {
-  "versionCode": 162,
-  "versionName": "1.0.1",
+  "versionCode": 165,
+  "versionName": "1.0.2",
   "apkUrl": "https://github.com/crm-releases/crm-app-updates/releases/download/live/live.apk",
-  "sha256": "d7039c8c0d2189d9dcf4b521d6fc98796df94db33581f20a7a15cafd708f9ef2",
-  "sizeBytes": 70090205,
+  "sha256": "d68b26a5993c2e8835cb58933188b17a501cdaef91a2a240a1261d6f2d67900d",
+  "sizeBytes": 70335965,
   "mandatory": false,
   "changelog": [
-    "New version numbering: this is version 1.0.1",
-    "Channels: Bulk Action sets two-step verification, profile or display name on many numbers at once",
-    "Retarget: choose who gets it - Sent, Delivered, Read, Replied or Failed",
-    "Campaigns: a campaign can be deleted only before it is triggered, so its report is always kept",
-    "Templates: editing a template made on the web keeps its image, video or document header"
+    "Settings: new Wallets screen with your Main, Channel and AI wallet balance and history",
+    "Wallet amounts and plan prices are now shown in COIN",
+    "Campaigns: see the estimated cost and your channel wallet balance before you trigger",
+    "Live Chat: a message your channel wallet could not pay now says so",
+    "Campaign report: shows when a campaign stopped because the channel wallet ran out"
   ]
 }
