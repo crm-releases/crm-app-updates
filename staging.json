@@ -1,15 +1,12 @@
 {
-  "versionCode": 166,
-  "versionName": "1.0.3-beta.166",
+  "versionCode": 167,
+  "versionName": "1.0.3-beta.167",
   "apkUrl": "https://github.com/crm-releases/crm-app-updates/releases/download/staging/staging.apk",
-  "sha256": "2edf95eb7f073d2c12de8c329d954dbdad7312f6c19807bd229370b6d1f31da3",
-  "sizeBytes": 70313741,
+  "sha256": "3c889b9a2d6a0d1178e5db712d44c0b840730aad167878d78a30a0ca4c56578d",
+  "sizeBytes": 70477133,
   "mandatory": false,
   "changelog": [
-    "Settings: new Wallets screen with your Main, Channel and AI wallet balance and history",
-    "Wallet amounts and plan prices are now shown in COIN",
-    "Campaigns: see the estimated cost and your channel wallet balance before you trigger",
-    "Live Chat: a message your channel wallet could not pay now says so",
-    "Campaign report: shows when a campaign stopped because the channel wallet ran out"
+    "Live Chat: photos and videos sent together now show as one album, like WhatsApp",
+    "Live Chat: select messages and tap Download to save all their photos and files to your phone"
   ]
 }
