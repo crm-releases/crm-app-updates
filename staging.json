@@ -1,8 +1,8 @@
 {
-  "versionCode": 167,
-  "versionName": "1.0.3-beta.167",
+  "versionCode": 170,
+  "versionName": "1.0.3-beta.170",
   "apkUrl": "https://github.com/crm-releases/crm-app-updates/releases/download/staging/staging.apk",
-  "sha256": "3c889b9a2d6a0d1178e5db712d44c0b840730aad167878d78a30a0ca4c56578d",
+  "sha256": "a766b1922c87ecad046b47034c5c530aa3f6393ba0d3f912cdbcf32a72fcfa67",
   "sizeBytes": 70477133,
   "mandatory": false,
   "changelog": [
