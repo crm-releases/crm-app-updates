@@ -1,15 +1,12 @@
 {
-  "versionCode": 165,
-  "versionName": "1.0.2",
+  "versionCode": 172,
+  "versionName": "1.0.3",
   "apkUrl": "https://github.com/crm-releases/crm-app-updates/releases/download/live/live.apk",
-  "sha256": "d68b26a5993c2e8835cb58933188b17a501cdaef91a2a240a1261d6f2d67900d",
-  "sizeBytes": 70335965,
+  "sha256": "7b0ab5435708d0730f2c596a49b25c08324ca68346f9a3a04953703110b829b6",
+  "sizeBytes": 70499213,
   "mandatory": false,
   "changelog": [
-    "Settings: new Wallets screen with your Main, Channel and AI wallet balance and history",
-    "Wallet amounts and plan prices are now shown in COIN",
-    "Campaigns: see the estimated cost and your channel wallet balance before you trigger",
-    "Live Chat: a message your channel wallet could not pay now says so",
-    "Campaign report: shows when a campaign stopped because the channel wallet ran out"
+    "Live Chat: photos and videos sent together now show as one album, like WhatsApp",
+    "Live Chat: select messages and tap Download to save all their photos and files to your phone"
   ]
 }
