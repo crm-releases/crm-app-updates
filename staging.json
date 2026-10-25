@@ -1,12 +1,12 @@
 {
-  "versionCode": 172,
-  "versionName": "1.0.4-beta.172",
+  "versionCode": 178,
+  "versionName": "1.0.4-beta.178",
   "apkUrl": "https://github.com/crm-releases/crm-app-updates/releases/download/staging/staging.apk",
-  "sha256": "347e3736bd90f959a7d7621bcf34c26e1f6531a18e4b8362cf349f95ea8f1f89",
-  "sizeBytes": 70477133,
+  "sha256": "1b0c8869d585e6fe462994f19cf69e867ef3fa0a70122fcd16a85262621b06c8",
+  "sizeBytes": 70493517,
   "mandatory": false,
   "changelog": [
-    "Live Chat: photos and videos sent together now show as one album, like WhatsApp",
-    "Live Chat: select messages and tap Download to save all their photos and files to your phone"
+    "Log out: new option to also log out of all your other devices",
+    "Small fixes and improvements"
   ]
 }
