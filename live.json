@@ -1,12 +1,12 @@
 {
-  "versionCode": 172,
-  "versionName": "1.0.3",
+  "versionCode": 178,
+  "versionName": "1.0.4",
   "apkUrl": "https://github.com/crm-releases/crm-app-updates/releases/download/live/live.apk",
-  "sha256": "7b0ab5435708d0730f2c596a49b25c08324ca68346f9a3a04953703110b829b6",
-  "sizeBytes": 70499213,
+  "sha256": "757c29909a634d3a88a1dde703bd6607443966d9f49d84e0d6448b5e2d7b383b",
+  "sizeBytes": 70515597,
   "mandatory": false,
   "changelog": [
-    "Live Chat: photos and videos sent together now show as one album, like WhatsApp",
-    "Live Chat: select messages and tap Download to save all their photos and files to your phone"
+    "Log out: new option to also log out of all your other devices",
+    "Small fixes and improvements"
   ]
 }
