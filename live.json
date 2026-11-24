@@ -1,12 +1,14 @@
 {
-  "versionCode": 178,
-  "versionName": "1.0.4",
+  "versionCode": 186,
+  "versionName": "1.0.5",
   "apkUrl": "https://github.com/crm-releases/crm-app-updates/releases/download/live/live.apk",
-  "sha256": "757c29909a634d3a88a1dde703bd6607443966d9f49d84e0d6448b5e2d7b383b",
-  "sizeBytes": 70515597,
+  "sha256": "ed95c397c9d9582d8f6b13ed87bda2c534ec49966c6de26ed2bc28950b5deac2",
+  "sizeBytes": 70810473,
   "mandatory": false,
   "changelog": [
-    "Log out: new option to also log out of all your other devices",
+    "Contacts: see when each contact was created and last updated",
+    "Contacts: sort newest or oldest first and filter by created date",
+    "Wallets and Channels: see where each channel wallet charge came from",
     "Small fixes and improvements"
   ]
 }
