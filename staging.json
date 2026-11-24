@@ -1,12 +1,14 @@
 {
-  "versionCode": 178,
-  "versionName": "1.0.4-beta.178",
+  "versionCode": 184,
+  "versionName": "1.0.5-beta.184",
   "apkUrl": "https://github.com/crm-releases/crm-app-updates/releases/download/staging/staging.apk",
-  "sha256": "1b0c8869d585e6fe462994f19cf69e867ef3fa0a70122fcd16a85262621b06c8",
-  "sizeBytes": 70493517,
+  "sha256": "2c7ab14bb7f0f7e2839171abe801b9c45759d74b7a6d3361961a18084162149d",
+  "sizeBytes": 70788393,
   "mandatory": false,
   "changelog": [
-    "Log out: new option to also log out of all your other devices",
+    "Contacts: see when each contact was created and last updated",
+    "Contacts: sort newest or oldest first and filter by created date",
+    "Wallets and Channels: see where each channel wallet charge came from",
     "Small fixes and improvements"
   ]
 }
