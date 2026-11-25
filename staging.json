@@ -1,14 +1,15 @@
 {
-  "versionCode": 181,
-  "versionName": "1.0.6-beta.181",
+  "versionCode": 190,
+  "versionName": "1.0.6-beta.190",
   "apkUrl": "https://github.com/crm-releases/crm-app-updates/releases/download/staging/staging.apk",
-  "sha256": "826ae607f3d0c839c09b1551ad4f8571a55fcea44caf36bc0d17bd2aed200c21",
+  "sha256": "44839ea0454022332244fe1f766e569cb202b136d99e63ac1c9b84d524f3265b",
   "sizeBytes": 70968617,
   "mandatory": false,
   "changelog": [
-    "Contacts: see when each contact was created and last updated",
-    "Contacts: sort newest or oldest first and filter by created date",
-    "Wallets and Channels: see where each channel wallet charge came from",
+    "Templates: write variables as numbers or as names, like {{first_name}}",
+    "Templates: add a sample for every variable before it goes to WhatsApp review",
+    "Templates: links that change per message now take a sample value",
+    "Sending a template now asks for header values and named values",
     "Small fixes and improvements"
   ]
 }
