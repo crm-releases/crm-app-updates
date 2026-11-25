@@ -1,9 +1,9 @@
 {
-  "versionCode": 186,
-  "versionName": "1.0.5-beta.186",
+  "versionCode": 181,
+  "versionName": "1.0.6-beta.181",
   "apkUrl": "https://github.com/crm-releases/crm-app-updates/releases/download/staging/staging.apk",
-  "sha256": "ff92a2323f8c84f226be10b94d8993c86616d3d868767949b5bcbafd610ebced",
-  "sizeBytes": 70788393,
+  "sha256": "826ae607f3d0c839c09b1551ad4f8571a55fcea44caf36bc0d17bd2aed200c21",
+  "sizeBytes": 70968617,
   "mandatory": false,
   "changelog": [
     "Contacts: see when each contact was created and last updated",
