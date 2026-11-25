@@ -1,15 +1,15 @@
 {
-  "versionCode": 192,
-  "versionName": "1.0.6",
+  "versionCode": 198,
+  "versionName": "1.0.7",
   "apkUrl": "https://github.com/crm-releases/crm-app-updates/releases/download/live/live.apk",
-  "sha256": "d253563d560bbfa5c1e18f1d8245f33680b395fd78614a96741563f1901e59ee",
-  "sizeBytes": 70990693,
+  "sha256": "afa2ca5a5f1d41b394d8e635e71b291c15066b863244edccb2ee459e4ca121d4",
+  "sizeBytes": 71948329,
   "mandatory": false,
   "changelog": [
-    "Templates: write variables as numbers or as names, like {{first_name}}",
-    "Templates: add a sample for every variable before it goes to WhatsApp review",
-    "Templates: links that change per message now take a sample value",
-    "Sending a template now asks for header values and named values",
+    "Chat: tap the camera button for a photo, hold it to record a video",
+    "Chat: share a location pin and contact cards",
+    "Chat: send large files up to 500 MB as a download link",
+    "Templates: clone a template to start a new one from it",
     "Small fixes and improvements"
   ]
 }
