@@ -1,15 +1,15 @@
 {
-  "versionCode": 192,
-  "versionName": "1.0.6-beta.192",
+  "versionCode": 197,
+  "versionName": "1.0.7-beta.197",
   "apkUrl": "https://github.com/crm-releases/crm-app-updates/releases/download/staging/staging.apk",
-  "sha256": "bc92893defbc1acd27568c379e7bc9b62d04753e8f5956cea4562ea36424923c",
-  "sizeBytes": 70968617,
+  "sha256": "4c7f8340e394d488584979af4ee77854e20375c4031f4ef8761aa4547e97f54c",
+  "sizeBytes": 71926249,
   "mandatory": false,
   "changelog": [
-    "Templates: write variables as numbers or as names, like {{first_name}}",
-    "Templates: add a sample for every variable before it goes to WhatsApp review",
-    "Templates: links that change per message now take a sample value",
-    "Sending a template now asks for header values and named values",
+    "Chat: tap the camera button for a photo, hold it to record a video",
+    "Chat: share a location pin and contact cards",
+    "Chat: send large files up to 500 MB as a download link",
+    "Templates: clone a template to start a new one from it",
     "Small fixes and improvements"
   ]
 }
