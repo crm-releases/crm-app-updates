@@ -1,12 +1,12 @@
 {
-  "versionCode": 204,
-  "versionName": "1.0.8",
+  "versionCode": 207,
+  "versionName": "1.0.9",
   "apkUrl": "https://github.com/crm-releases/crm-app-updates/releases/download/live/live.apk",
-  "sha256": "f701d7274bf5671f482548d9cc842c5fb33eb61239058c5052c5d064385fd306",
-  "sizeBytes": 71981097,
+  "sha256": "c6d55d2c56a7cce938ba759671de076adae640435fdfbbe024f115d62bdf616e",
+  "sizeBytes": 72161321,
   "mandatory": false,
   "changelog": [
-    "Templates: named variables now also work in Catalogue, Limited-time offer, Multi-product and Carousel templates",
+    "Templates: create carousel templates with cards, sample images and buttons",
     "Small fixes and improvements"
   ]
 }
