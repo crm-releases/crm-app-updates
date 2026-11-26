@@ -1,15 +1,12 @@
 {
-  "versionCode": 198,
-  "versionName": "1.0.7",
+  "versionCode": 204,
+  "versionName": "1.0.8",
   "apkUrl": "https://github.com/crm-releases/crm-app-updates/releases/download/live/live.apk",
-  "sha256": "afa2ca5a5f1d41b394d8e635e71b291c15066b863244edccb2ee459e4ca121d4",
-  "sizeBytes": 71948329,
+  "sha256": "f701d7274bf5671f482548d9cc842c5fb33eb61239058c5052c5d064385fd306",
+  "sizeBytes": 71981097,
   "mandatory": false,
   "changelog": [
-    "Chat: tap the camera button for a photo, hold it to record a video",
-    "Chat: share a location pin and contact cards",
-    "Chat: send large files up to 500 MB as a download link",
-    "Templates: clone a template to start a new one from it",
+    "Templates: named variables now also work in Catalogue, Limited-time offer, Multi-product and Carousel templates",
     "Small fixes and improvements"
   ]
 }
