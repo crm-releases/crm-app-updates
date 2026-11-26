@@ -1,12 +1,12 @@
 {
-  "versionCode": 199,
-  "versionName": "1.0.8-beta.199",
+  "versionCode": 203,
+  "versionName": "1.0.9-beta.203",
   "apkUrl": "https://github.com/crm-releases/crm-app-updates/releases/download/staging/staging.apk",
-  "sha256": "53c902cd50889fc8c885953be2fe802130d79a06439806a4dde57d0087eba324",
-  "sizeBytes": 71959017,
+  "sha256": "077d8ec8bdd2edbe71a3d65a6e533829d99360676849163d6bf4cbd6c0ac5d8c",
+  "sizeBytes": 72139241,
   "mandatory": false,
   "changelog": [
-    "Templates: named variables now also work in Catalogue, Limited-time offer, Multi-product and Carousel templates",
+    "Templates: create carousel templates with cards, sample images and buttons",
     "Small fixes and improvements"
   ]
 }
