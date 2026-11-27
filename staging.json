@@ -1,9 +1,9 @@
 {
-  "versionCode": 207,
-  "versionName": "1.0.9-beta.207",
+  "versionCode": 210,
+  "versionName": "1.1.0-beta.210",
   "apkUrl": "https://github.com/crm-releases/crm-app-updates/releases/download/staging/staging.apk",
-  "sha256": "4d22448963a8253c455ee5ba31bfe976be6b608c4a2531202520e9c7c7b1ef2e",
-  "sizeBytes": 72139245,
+  "sha256": "882d92b3d34cab404e9e50167eee85224ace8e3144010525039a5c7fc6ce3b60",
+  "sizeBytes": 72172009,
   "mandatory": false,
   "changelog": [
     "Templates: create carousel templates with cards, sample images and buttons",
