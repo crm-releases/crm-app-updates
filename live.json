@@ -1,12 +1,11 @@
 {
-  "versionCode": 207,
-  "versionName": "1.0.9",
+  "versionCode": 212,
+  "versionName": "1.1.0",
   "apkUrl": "https://github.com/crm-releases/crm-app-updates/releases/download/live/live.apk",
-  "sha256": "c6d55d2c56a7cce938ba759671de076adae640435fdfbbe024f115d62bdf616e",
-  "sizeBytes": 72161321,
+  "sha256": "b14afa0da3b1dbed3f6fde4f7b6fedb62a3a2ab1fc5a84f3bd8d11ab7fe869d9",
+  "sizeBytes": 72194085,
   "mandatory": false,
   "changelog": [
-    "Templates: create carousel templates with cards, sample images and buttons",
     "Small fixes and improvements"
   ]
 }
